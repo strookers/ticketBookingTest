@@ -1,0 +1,6 @@
+C:\Users\micha\Downloads\TicketBooking\TicketBooking\bin\TicketBooking.dll.config
+C:\Users\micha\Downloads\TicketBooking\TicketBooking\bin\TicketBooking.dll
+C:\Users\micha\Downloads\TicketBooking\TicketBooking\bin\TicketBooking.pdb
+C:\Users\micha\Downloads\TicketBooking\TicketBooking\obj\Debug\TicketBooking.csprojResolveAssemblyReference.cache
+C:\Users\micha\Downloads\TicketBooking\TicketBooking\obj\Debug\TicketBooking.dll
+C:\Users\micha\Downloads\TicketBooking\TicketBooking\obj\Debug\TicketBooking.pdb
